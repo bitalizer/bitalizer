@@ -28,7 +28,16 @@
 
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
-<h1 align="center">📊 GitHub Stats</h1>
+**Reverse Engineering**
+
+![Binary Ninja](https://img.shields.io/badge/Binary%20Ninja-D63826?style=for-the-badge&logoColor=white) ![x64dbg](https://img.shields.io/badge/x64dbg-1A1A1A?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0iI0YyNjgyMiI+PHBhdGggZD0iTTIwIDhoLTIuODFjLS40NS0uNzgtMS4wNy0xLjQ1LTEuODItMS45NkwxNyA0LjQxIDE1LjU5IDNsLTIuMTcgMi4xN0MxMi45NiA1LjA2IDEyLjQ5IDUgMTIgNWMtLjQ5IDAtLjk2LjA2LTEuNDEuMTdMOC40MSAzIDcgNC40MWwxLjYyIDEuNjNDNy44OCA2LjU1IDcuMjYgNy4yMiA2LjgxIDhINHYyaDIuMDljLS4wNS4zMy0uMDkuNjYtLjA5IDF2MUg0djJoMnYxYzAgLjM0LjA0LjY3LjA5IDFINHYyaDIuODFjMS4wNCAxLjc5IDIuOTcgMyA1LjE5IDNzNC4xNS0xLjIxIDUuMTktM0gyMHYtMmgtMi4wOWMuMDUtLjMzLjA5LS42Ni4wOS0xdi0xaDJ2LTJoLTJ2LTFjMC0uMzQtLjA0LS42Ny0uMDktMUgyMFY4em0tNiA4aC00di0yaDR2MnptMC00aC00di0yaDR2MnoiLz48L3N2Zz4=) ![Frida](https://img.shields.io/badge/Frida-E91E63?style=for-the-badge&logo=hackthebox&logoColor=white) ![dnSpy](https://img.shields.io/badge/dnSpy-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+
+**Network & Traffic Analysis**
+
+![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white) ![Burp Suite](https://img.shields.io/badge/Burp%20Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white) ![Fiddler](https://img.shields.io/badge/Fiddler-002B36?style=for-the-badge&logo=telegraph&logoColor=white) ![Charles](https://img.shields.io/badge/Charles-D32F2F?style=for-the-badge&logo=charles&logoColor=white)
+
+
+<h1 align="left">📊 GitHub Stats</h1>
 
 <p align="center">
   <img width="495" src="https://readmestats.999857.xyz/api?username=bitalizer&theme=nightowl&hide_border=false&include_all_commits=true&count_private=true&card_width=495" />
